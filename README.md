@@ -26,6 +26,8 @@ This project aims to determine and score the sentiment of Amazon reviews.
 ```
 python3 sentiment_analysis.py
 ```
+![image](https://github.com/tawfeeeeeeeq/finalCapstone/assets/893607/687a4372-1b66-4480-ac9f-96f3ffeca03e)
+
 
 ## Authors
 
